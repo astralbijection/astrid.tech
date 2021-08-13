@@ -42,7 +42,7 @@
     "js-yaml": "^4.1.0",
     "katex": "^0.13.11",
     "lqip-loader": "^2.2.1",
-    "next": "^11.0.1",
+    "next": "^11.1.0",
     "next-compose-plugins": "^2.2.1",
     "next-optimized-images": "^2.6.2",
     "npm-license-crawler": "^0.2.1",
